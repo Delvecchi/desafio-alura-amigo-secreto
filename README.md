@@ -21,7 +21,7 @@ JavaScript
 Clone o repositório:
 
 bash
-git clone https://github.com/seu-usuario/amigo-secreto.git
+git clone https://github.com/Delvecchi/desafio-alura-amigo-secreto.git
 Abra o arquivo index.html no navegador.
 
 Digite os nomes, adicione à lista e clique em "Sortear Amigo" para ver o resultado.
